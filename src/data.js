@@ -3,33 +3,33 @@ export const projects = [
     title: "Grab-a-bite",
     subtitle: "Full stack Node Js application",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "This was my first full stack Application which implemented many features such as Authorization, API calls, Real time notifications and much more. Click on this to see a walkthrough tutorial",
+    image: "./grababite.gif",
+    link: "https://www.youtube.com/watch?v=OF9yX35D64o&ab_channel=JaskaranDhanoa",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Terminal Messaging Port",
+    subtitle: "C with Sockets and MultiThreading ",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Created a messaging program in C, with Sockets and Multithreading so users may send each other messages on the same port to communicate. Click on this to see a walkthrough tutorial",
+    image: "./message.gif",
+    link: "https://drive.google.com/file/d/1MQ59ox3i3rTi4UZHJ8THAsXjyl6Yabh2/view?usp=sharing",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Automated Bot",
+    subtitle: "Webscraping Python Bot, Bypasses Google Captcha",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Using Python's selenuim library I was able to correctly insert correct values into each and every required elements, along with this using speech_recognition to provide the correct captcha answer",
+    image: "./bot.gif",
+    link: "https://youtu.be/18AHl0isSeA",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Hangman",
+    subtitle: "Java Web development using Springboot",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Taking advantage of Java and its OOP, along with using Springboot/gradle to create a simple web based game in Java ",
+    image: "./hangman.gif",
+    link: "https://drive.google.com/file/d/1_dw6zRt3XupYlFh83I6x7kWqQlkPe-yI/view?usp=sharing",
   },
 ];
 
