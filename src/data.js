@@ -31,6 +31,14 @@ export const projects = [
     image: "./hangman.gif",
     link: "https://drive.google.com/file/d/1_dw6zRt3XupYlFh83I6x7kWqQlkPe-yI/view?usp=sharing",
   },
+  {
+    title: "FairTrade Retailers",
+    subtitle: "Developed using django framework, Google/Twitter API's and Local Retailers Dataset",
+    description:
+      "A hackathon project which provided users to locations to local retailers, with the ability to share retailers on twitter. Or even their own blog posts for followers to see",
+    image: "./stormhacks.gif",
+    link: "https://www.youtube.com/watch?v=9mkR-GlIeus&t=42s&ab_channel=AnujSood",
+  },
 ];
 
 export const testimonials = [
