@@ -44,25 +44,24 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "I was first introduced to programming in university, since then I have been learning as much as I possibly can. Projects ranging from  web development, data mining and more specific topics in the area of computing science. Much of my work has touched basis with many different frameworks and languages. I hope to gather more knowledge and further my expertise in software developement by hopefully working alongside proffesionals such as yourself",
+    name: "Software Development over the years",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "I grew up playing basketball and watching the nba, which is why I like to stay active to this day. Consistently working out or going out on hikes helps not only my health but also my mental well being. Other than physical activites, I have particpated in quite a few hackathons over the years. By placing myself in a new and uncomfortable environment helped trendmendously since each and every group member is different, working together as a whole is a challenge I personally love to tackle. ",
+    name: "Hobbies and Intrests",
   },
 ];
 
 export const skills = [
   "JavaScript",
+  "Python",
+  "C/C++",
+  "Java",
+  "Rust",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "NodeJs",
+  "Django",
+  "Postgresql",
 ];
